@@ -6,7 +6,7 @@ namespace P1_1_1204039
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Halo Dunia!");
+            Console.WriteLine("Halo Dunia! Saya Muammar Alfien Zaidan");
         }
     }
 }
